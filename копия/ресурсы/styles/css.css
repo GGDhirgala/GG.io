@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn&display=swap');
+body {
+    background-color: rgb(189, 156, 190);
+    font-family: Vollkorn, serif; }
+
+header>h1 {text-align: center;
+color: #e30e59;
+width: 250pх;
+background-color: #84076d;}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(104, 44, 79);
+    font-style: oblique;
+    font-size: xx-large;}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: deeppink;
+    font-style: oblique;
+    font-size: xx-large;}
+ 
+.navbar.navbar-expand-lg.navbar-light.bg-light .container-fluid .navbar-brand img { 
+    width: 100px;}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+     background-color: rgb(178, 125, 152);}
+
+.container-fluid .row .col-lg-4.col-md-6 .card {
+    width: 250px;}
+
+.card {color: #84076d;}
+
+section {padding-top: 10px;}
+ 
+.home {margin-top: 100px;}
+
+.home>h1 {margin-left: 100px; 
+color: #e30e59;
+margin-top: 100 px;}
+
+.home>h2 {margin-left: 150px;
+font-style: italic;
+list-style: circle;
+color: #84076d;}
+
+.home>ul>li {margin-left: 200px;
+color: deeppink;
+font-size: x-large;}
+
+.home>p {margin-left: 200px;
+    color: deeppink;
+font-size: x-large;}
+
+.nav-item .nav-link>img {width: 100px;}
+
+table {font-family: sans-serif;
+text-align: left;
+border-collapse: separate;
+border-spacing: 10px;
+background: #c193b9;
+color: #84076d;
+border-radius: 20px;
+border: 16px solid cornsilk;
+text-align: center;
+margin-top: 40px;
+margin-left: 100px;}
+
+th {font-size: 18px;
+padding: 10px;}
+
+td {padding: 10px;
+background-color: cornsilk;}
+
+td>a>img {width: 60px;}
+
+
+
+.menu .drnks {margin-left:450px;
+    font-style: initial;
+    color: #e30e59;
+    margin-top: 50px;}
+ 
+    .navbar-light .navbar-nav {justify-content: space-between;}
+
+    .navbar-light .navbar-nav .nav-item .formenu {
+        position: absolute;
+        background: #c193b9;
+         border: 1px solid;
+         list-style: none;}
+         .navbar-light .navbar-nav .nav-item .formenu .formenu1 {
+            color: black;
+            text-decoration: none;
+         }
+.home .beginning {display: row;
+text-align: center;
+font-size: x-large;
+margin-top: 30px;}
+
+.home .beginning>ul>li>a {text-decoration: none;
+color: black;}
+.home .beginning>ul>li>ul>li>a {text-decoration: none;
+    color: black;}
+  .home  .beginning {display:row;}
+
+.home .beginning .oc {margin-left: 20 px;}
+
+.home .beginning>ul {list-style: none;
+}
+
+.home .form {display: block;
+width: 500px; 
+text-align: center;
+color: #c193b9;}
+
+.home .form .input-box{display: flex;
+    margin-left: 200px;
+    height: 60px;
+    color: #c193b9;
+border: 1px solid;
+}
+
+.error .input-field {border-color: darkred;}
+
+.menu {margin-left: 150px;
+margin-bottom: 60px;}
+.menu .donuts {margin-left: 450px;
+    font-style: initial;
+    color: #e30e59;
+    margin-top: 20px;}
+
+footer {text-align: center;
+    font-size: 50px;
+    color: #a85d78;
+    background-color: bisque;
+    margin-top: 20px;px;
+    height: 100px;
+    font-style: italic;
+    
+
+}
+
+.nav-item .formenu {display: initial;}
+.navbar-nav .nav-item .nav-link.active>ul>li: hover > ul {
+    display: initial;
+}
+
+
+
+
